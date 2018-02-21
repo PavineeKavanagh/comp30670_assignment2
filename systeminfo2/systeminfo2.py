@@ -1,7 +1,7 @@
 '''
 Created on 6 Feb 2018
 
-@author: Pavinee
+@author: Pavinee Kavanagh
 '''
 import platform
 
