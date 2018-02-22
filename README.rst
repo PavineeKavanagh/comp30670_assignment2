@@ -18,15 +18,12 @@ systeminfo2
 
 assignment2
 
-
-* Free software: MIT license
-* Documentation: https://systeminfo2.readthedocs.io.
-
-
 Features
 --------
 
-* TODO
+* systeminfo2 can be installed by:
+$ pip install git+https://github.com/PavineeKavanagh/comp30670_assignment2.git
+
 
 Credits
 -------
