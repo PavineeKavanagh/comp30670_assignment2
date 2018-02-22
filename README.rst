@@ -18,12 +18,15 @@ systeminfo2
 
 assignment2
 
-Features
---------
+This is an assignment to develop a simple flask application to import a module to display the platform information of the machine when the flask app is running on.  To get the flask application working: 
 
-* systeminfo2 can be installed by:
+1. install systeminfo2 by:
 $ pip install git+https://github.com/PavineeKavanagh/comp30670_assignment2.git
 
+2. install flask_platform1 by:
+$ pip install git+https://github.com/PavineeKavanagh/bonusPart.git
+
+3. $ \flask_platform1\flask_platform1>python run.py
 
 Credits
 -------
